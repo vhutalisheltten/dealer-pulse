@@ -22,3 +22,8 @@ pytest
 After pushing this repository to GitHub, create a Code Engine application from
 source and select this repository. The app listens on port `8080` and includes
 a `Dockerfile`; no additional build configuration is required.
+
+## Product Details Microservice
+
+The `product_details` directory contains a separate Product Details
+Microservice for deployment from its own source context.
